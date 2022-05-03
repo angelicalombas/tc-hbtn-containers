@@ -1,5 +1,5 @@
 O que são contêineres?
-Os contêineres permitem que um aplicativo seja executado de forma consistente e confiável, independentemente do sistema operacional ou do ambiente de infraestrutura. Os contêineres fazem isso agregando tudo o que um serviço precisa para ser executado — código, tempo de execução, ferramentas do sistema, bibliotecas e configurações —, criando um pacote portátil, autônomo e executável.
+Os Contêiners permitem que um aplicativo/aplicações seja executado de forma consistente e confiável, independentemente do sistema operacional ou do ambiente de infraestrutura. Os contêineres fazem isso agregando tudo o que um serviço precisa para ser executado — código, tempo de execução, ferramentas do sistema, bibliotecas e configurações —, criando um pacote portátil, autônomo e executável.
 
 Para que se usa um contêiner?
 Os contêineres representam o futuro da computação, juntamente com tecnologias como DevOps, nativo da nuvem, IA e machine learning. Os casos de uso comuns incluem:
@@ -35,3 +35,4 @@ Uma das principais vantagens dos contêineres em relação às máquinas virtuai
 
 Quais são as principais ferramentas e tecnologias de contêiner?
 Docker e Kubernetes são os grandes nomes na área de contêineres. O Docker é uma plataforma de contêiner de código aberto. O Kubernetes é a opção mais popular para orquestração de contêineres — embora existam alternativas como Docker Swarm e VMware Tanzu. Os principais provedores de nuvem, como AWS, Google e Microsoft Azure, também oferecem produtos de contêiner como serviço (CaaS).
+Red Hat
